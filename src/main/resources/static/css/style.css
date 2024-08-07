@@ -1,0 +1,38 @@
+body{
+	background-color: #FFFFF0		;
+	text-align: center;
+	align-items: center;
+}
+
+.container{
+	padding-top: 50px;
+	background-color: #F0E68C		;
+}
+
+.container1{
+	background-color:  #FA8072;
+}
+
+.navbar-nav{
+	padding-left: 1010px;
+}
+
+.navbar{
+	background-color: #696969	;
+}
+
+a{
+	color: white;
+}
+
+.box{
+	margin-left: 280px;
+	background-color: #CCCCFF;
+	color: royalblue;
+	align-self: center;
+	height: 90px;
+	width: 750px;
+	border: 2px solid ;
+	border-radius: 25px;
+	box-shadow: 20px;
+}
